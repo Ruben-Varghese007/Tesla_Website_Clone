@@ -1,8 +1,8 @@
 # Tesla Website Clone #
 
 ## Author
-Name:  [Ruben George Varghese]
-GitHub: [https://github.com/Ruben-Varghese007]
+- Name:  [Ruben George Varghese]
+- GitHub: [https://github.com/Ruben-Varghese007]
 
 ## Clone - Tesla Website
 
